@@ -1,0 +1,103 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  header {
+    background-color: #666;
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+  }  
+  nav{
+ width: 30%;
+ height: 500px;
+ float: left;
+
+  }
+  .text-center{
+    text-align: center;
+}
+
+.min{
+  display: flex;
+}
+
+.sabmin{
+  width: 50%;
+}
+
+::marker{
+  color: #074feb;
+  
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+  .article{
+float: left;
+    width: 70%;
+    height: 500px;
+  }
+
+.styrene{
+    width: 100%;
+    height: 80px;
+    border: 2px solid #000;
+    text-align: center;
+}
+footer{
+    clear: both;
+    background-color: #666;
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+}
+.color{
+    color: red;
+}
+
+.img{
+outline: 2px solid rebeccapurple;
+}
+
+#img{
+padding: 12px;
+}
+
+table, th, td {
+    border:1px solid black;
+    border-spacing :5px;
+  }
+
+.cell{
+    padding: 20px;
+}  
+
+*, *:before, *:after {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Nunito', sans-serif;
+  color: #384047;
+}
+
+
+h1 {
+  margin: 0 0 30px 0;
+  text-align: center;
+}
