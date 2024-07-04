@@ -1,0 +1,27 @@
+.per{
+  color: blueviolet;
+}
+
+h3{
+  text-align: center;
+}
+
+.web{
+  font-size: 23px ;
+  color: #8f2121;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  padding: 12px;
+}
+.div1{
+background-color: black;
+}
+
+
+.font-style{
+  font-family: font-size;
+}
+
+@font-face  {
+  font-family: font-size ;
+  src: url(../css/font/Playwrite_ES/PlaywriteES-VariableFont_wght.ttf);
+}
