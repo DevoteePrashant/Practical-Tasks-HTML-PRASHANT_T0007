@@ -1,0 +1,57 @@
+.per{
+  color: blueviolet;
+}
+
+h3{
+  text-align: center;
+}
+
+
+.div1{
+background-color: black;
+}
+
+
+.font-style{
+  font-family: font-size;
+}
+
+@font-face  {
+  font-family: font-size ;
+  src: url(./font/Playwrite_ES/PlaywriteES-VariableFont_wght.ttf);
+}
+
+
+div{
+  color: blue;
+  font-size: 81px;
+  font-weight: 900;
+  font-style: initial;
+  text-align: center;
+  border: 12px solid black;
+  padding: 112px;
+  margin: 112px;
+}
+#example1 {
+box-sizing: content-box;  
+width: 300px;
+height: 100px;
+padding: 30px;  
+font-size: 22px;
+border: 10px solid blue;
+}
+
+#example2 {
+box-sizing: border-box;
+width: 300px;
+height: 100px;
+padding: 30px;  
+font-size: 22px;
+border: 10px solid blue;
+}
+.qw{
+color: rgb(0, 0, 0);
+font-size: 12px;
+font-weight: 100;
+font-style: normal;
+}
